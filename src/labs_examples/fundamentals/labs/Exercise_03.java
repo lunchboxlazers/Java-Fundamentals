@@ -14,9 +14,15 @@ public class Exercise_03 {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World!");
-
         // write code to print out "Check out my first Java program!" below
+        System.out.println("Hello World!");
+        System.out.println("Check out this VERY basic java program");
+
+        int i = 10;
+        int j = 12;
+        int z = i +j;
+
+        System.out.println(z);
 
     }
 
